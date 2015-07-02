@@ -1,5 +1,6 @@
 # Weston's Full Stack Web Development Resources
 A repo to keep track of resources I pick up while learning Full Stack Javascript Development. Use to improve the quality of your brain. 
+
 ★ = Essential/Suggested
 
 ### Course Sites
