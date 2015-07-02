@@ -17,6 +17,11 @@ Core concepts on what everything below this is built on.
 + [Deploying a MEAN stack app to Heroku](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
 
 ### Dev Environment
++ Terminal
+  + [iTerm2](https://www.iterm2.com/) - Terminal replacement for OSX
+  + Themes
+    + [Giant ZIP of Themes](http://iterm2colorschemes.com/)
+      + Personal Favorites - Flatland 
 + Text Editors
   + ★ [Sublime Text 3](http://www.sublimetext.com/3) 
     + Themes
