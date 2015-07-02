@@ -15,3 +15,10 @@ Core concepts on what everything below this is built on.
 #### HTML
 #### CSS
 #### Javascript
++ Frameworks
+  + AngularJS
+    + [Angular 1.x](https://angularjs.org/)
+    + [Angular 2.x](https://angular.io/)
+    + Learning
+      + [Giant List of Angular Resources](https://github.com/jmcunningham/AngularJS-Learning)
+  + Ember
