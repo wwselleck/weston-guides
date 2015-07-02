@@ -1,20 +1,26 @@
 # Weston's Full Stack Web Development Resources
 A repo to keep track of resources I pick up while learning Full Stack Javascript Development. Use to improve the quality of your brain. 
 
-## Course Sites
+### Course Sites
 Sites with structured courses and/or guides for learning web dev.
 + [Bento](http://www.bentobox.io) - Guides for web development 
 + [Udacity](https://www.udacity.com/) - Programming courses
 
-## Core Web Concepts
+### Core Web Concepts
 Core concepts on what everything below this is built on.
 + [Web Components](http://webcomponents.org/)
 + [Web Sockets](https://developer.mozilla.org/en-US/docs/WebSockets)
 
-## Workflow/Deployment
+### Workflow/Deployment
 + [Deploying a MEAN stack app to Heroku](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
 
-## Client-Side
+### Dev Environment
++ Text Editors
+  + [Sublime Text 3](http://www.sublimetext.com/3)
+  + [Atom by Github](https://atom.io/)
++ [Improve Mac OSX Terminal Experience](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
+
+### Client-Side
 #### HTML
 #### CSS
 #### Javascript
@@ -34,6 +40,6 @@ Core concepts on what everything below this is built on.
     + Beginner
       + [A complete guide for learning Backbone](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
   
-## Server-Side
+### Server-Side
 #### Node.js
   + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
