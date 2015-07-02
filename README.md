@@ -11,6 +11,9 @@ Core concepts on what everything below this is built on.
 + [Web Components](http://webcomponents.org/)
 + [Web Sockets](https://developer.mozilla.org/en-US/docs/WebSockets)
 
+## Workflow/Deployment
++ [Deploying a MEAN stack app to Heroku](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
+
 ## Client-Side
 #### HTML
 #### CSS
@@ -19,9 +22,13 @@ Core concepts on what everything below this is built on.
   + AngularJS
     + [Angular 1.x](https://angularjs.org/)
     + [Angular 2.x](https://angular.io/)
+    + [Giant List of Angular Resources](https://github.com/jmcunningham/AngularJS-Learning)
+    + [Zeef Angular Page](https://angularjs.zeef.com/gianluca.arbezzano)
     + General
+      + [A Different Approach to Angular Nav Menus](https://ryankaskel.com/blog/2013/05/27/a-different-approach-to-angularjs-navigation-menus)
+    + Architecture
       + [John Papa's Style Guide](https://github.com/johnpapa/angular-styleguide)
-      + [Giant List of Angular Resources](https://github.com/jmcunningham/AngularJS-Learning)
+      + [13 Step Guide to Angular Modularization](https://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
   + Ember
   
 ## Server-Side
