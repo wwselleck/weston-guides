@@ -28,6 +28,7 @@ Core concepts on what everything below this is built on.
     + Plugins
       + ★ [Package Control](https://packagecontrol.io/) - Package manager for Sublime 
   + [Atom by Github](https://atom.io/)
+[Spectacle Window Manager for OSX](http://spectacleapp.com/)
 
 ### Client-Side
 #### HTML
