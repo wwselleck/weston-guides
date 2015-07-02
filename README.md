@@ -19,6 +19,11 @@ Core concepts on what everything below this is built on.
   + AngularJS
     + [Angular 1.x](https://angularjs.org/)
     + [Angular 2.x](https://angular.io/)
-    + Learning
+    + General
+      + [John Papa's Style Guide](https://github.com/johnpapa/angular-styleguide)
       + [Giant List of Angular Resources](https://github.com/jmcunningham/AngularJS-Learning)
   + Ember
+  
+## Server-Side
+#### Node.js
+  + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
