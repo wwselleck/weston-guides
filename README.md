@@ -16,7 +16,10 @@ Core concepts on what everything below this is built on.
 
 ### Dev Environment
 + Text Editors
-  + [Sublime Text 3](http://www.sublimetext.com/3)
+  + ★ [Sublime Text 3](http://www.sublimetext.com/3) 
+    + Themes
+    + Plugins
+      + ★ [Package Control](https://packagecontrol.io/) - Package manager for Sublime 
   + [Atom by Github](https://atom.io/)
 + [Improve Mac OSX Terminal Experience](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
 
