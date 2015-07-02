@@ -30,6 +30,9 @@ Core concepts on what everything below this is built on.
       + [John Papa's Style Guide](https://github.com/johnpapa/angular-styleguide)
       + [13 Step Guide to Angular Modularization](https://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
   + Ember
+  + Backbone
+    + Beginner
+      + [A complete guide for learning Backbone](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
   
 ## Server-Side
 #### Node.js
