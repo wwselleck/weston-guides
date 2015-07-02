@@ -20,8 +20,7 @@ Core concepts on what everything below this is built on.
 + Terminal
   + [iTerm2](https://www.iterm2.com/) - Terminal replacement for OSX
     + Themes
-      + [Giant ZIP of Themes](http://iterm2colorschemes.com/)
-        + Personal Favorites - Flatland 
+      + [Giant ZIP of Themes](http://iterm2colorschemes.com/) (Favorites: Flatland)
 + Text Editors
   + ★ [Sublime Text 3](http://www.sublimetext.com/3) 
     + Themes
