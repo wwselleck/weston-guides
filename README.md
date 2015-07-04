@@ -34,7 +34,7 @@ Core concepts on what everything below this is built on.
 #### HTML
 #### CSS
 #### Javascript
-+General
++ General
   + [PlainJS](https://plainjs.com/javascript/events/) - Helpful tips for writing plain javascript
 + Frameworks
   + AngularJS
