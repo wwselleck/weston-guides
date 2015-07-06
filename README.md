@@ -47,6 +47,8 @@ Core concepts on what everything below this is built on.
     + Architecture
       + ★ [John Papa's Style Guide](https://github.com/johnpapa/angular-styleguide)
       + [13 Step Guide to Angular Modularization](https://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
+    + Plugins
+      + ★ [Smart Table](http://lorenzofox3.github.io/smart-table-website/) - Great table directive
   + Ember
   + Backbone
     + Beginner
