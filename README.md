@@ -39,6 +39,8 @@ Core concepts on what everything below this is built on.
 + General
   + [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
   + [PlainJS](https://plainjs.com/javascript/events/) - Helpful tips for writing plain javascript
++ Books
+  + [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 + Frameworks
   + AngularJS
     + [Angular 1.x](https://angularjs.org/)
