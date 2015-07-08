@@ -14,6 +14,8 @@ Core concepts on what everything below this is built on.
 + [Web Sockets](https://developer.mozilla.org/en-US/docs/WebSockets)
 
 ### Workflow/Deployment
++ [Bower](http://bower.io/) - Front-end dependency management
+  + [How to find available versions of package](http://stackoverflow.com/questions/21242143/how-to-find-available-versions-for-a-bower-dependency)
 + [Deploying a MEAN stack app to Heroku](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
 
 ### Dev Environment
