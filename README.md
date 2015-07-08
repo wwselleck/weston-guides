@@ -37,6 +37,7 @@ Core concepts on what everything below this is built on.
 #### CSS
 #### Javascript
 + General
+  + [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
   + [PlainJS](https://plainjs.com/javascript/events/) - Helpful tips for writing plain javascript
 + Frameworks
   + AngularJS
