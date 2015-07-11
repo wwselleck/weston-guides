@@ -49,6 +49,7 @@ Core concepts on what everything below this is built on.
     + [Zeef Angular Page](https://angularjs.zeef.com/gianluca.arbezzano)
     + General
       + [A Different Approach to Angular Nav Menus](https://ryankaskel.com/blog/2013/05/27/a-different-approach-to-angularjs-navigation-menus)
+      + [Save form values on view chnage](http://stackoverflow.com/questions/12940974/maintain-model-of-scope-when-changing-between-views-in-angularjs)
     + Architecture
       + ★ [John Papa's Style Guide](https://github.com/johnpapa/angular-styleguide)
       + [13 Step Guide to Angular Modularization](https://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
