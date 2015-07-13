@@ -5,6 +5,7 @@ A repo to keep track of resources I pick up while learning Full Stack Javascript
 
 ### General/Reference
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
 ### Course Sites
 Sites with structured courses and/or guides for learning web dev.
 + [Bento](http://www.bentobox.io) - Guides for web development 
