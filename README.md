@@ -10,6 +10,8 @@ Sites with structured courses and/or guides for learning web dev.
 
 ### Core Web Concepts
 Core concepts on what everything below this is built on.
++ HTTP
+  + [Difference between "Cache-Control: max-age=0" and "Cache-Control: no-cache"](http://stackoverflow.com/questions/1046966/whats-the-difference-between-cache-control-max-age-0-and-no-cache)
 + [Web Components](http://webcomponents.org/)
 + [Web Sockets](https://developer.mozilla.org/en-US/docs/WebSockets)
 
