@@ -72,3 +72,7 @@ Core concepts on what everything below this is built on.
 ### Server-Side
 #### Node.js
   + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
+
+### Various (need to be sorted)
++ [JSBin](http://jsbin.com/) - Web app for mocking up examples with HTML/CSS/JS.
++ [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) - Useful for writing ReadMe's, documentation, etc.
