@@ -38,6 +38,7 @@ Core concepts on what everything below this is built on.
     + Themes
     + Plugins
       + ★ [Package Control](https://packagecontrol.io/) - Package manager for Sublime 
+      + [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter) - Linting (required additional plugins for each linter (e.g. JSHint)
   + [Atom by Github](https://atom.io/)
 + [Spectacle Window Manager for OSX](http://spectacleapp.com/)
 
