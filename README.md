@@ -3,7 +3,11 @@ A repo to keep track of resources I pick up while learning Full Stack Javascript
 
 ★ = Essential/Suggested
 
-### General/Reference
+### General
++ Web Programming Patterns
+  + [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
+
+### Reference
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 ### Course Sites
