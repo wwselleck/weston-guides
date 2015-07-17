@@ -39,6 +39,7 @@ Core concepts on what everything below this is built on.
     + Plugins
       + ★ [Package Control](https://packagecontrol.io/) - Package manager for Sublime 
       + [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter) - Linting (required additional plugins for each linter (e.g. JSHint)
+      + [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter) - Highlight matching brackets, quotations, etc.
   + [Atom by Github](https://atom.io/)
 + [Spectacle Window Manager for OSX](http://spectacleapp.com/)
 
