@@ -32,8 +32,10 @@ Core concepts on what everything below this is built on.
 + [Web Components](http://webcomponents.org/)
 
 ### Workflow/Deployment
-+ [Bower](http://bower.io/) - Front-end dependency management
++ ★ [Bower](http://bower.io/) - Front-end dependency management
   + [How to find available versions of package](http://stackoverflow.com/questions/21242143/how-to-find-available-versions-for-a-bower-dependency)
++ ★ Gulp
+  + [Gulp + Browserify: The Everything Post](http://viget.com/extend/gulp-browserify-starter-faq)
 + [Deploying a MEAN stack app to Heroku](http://www.tilcode.com/deploying-a-mean-stack-app-to-heroku/)
 
 ### Dev Environment
