@@ -66,6 +66,7 @@ Core concepts on what everything below this is built on.
     + ES7
       + [Async/Await](https://github.com/lukehoban/ecmascript-asyncawait) - Async programming in a synchronous fashion
 + Various *need to be sorted*
+  + [Eloquent Javascript Chapter 10: Modules](http://eloquentjavascript.net/10_modules.html)
   + [Overwhelmed by Javascript Dependencies](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
 + Books
   + [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
