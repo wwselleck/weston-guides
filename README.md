@@ -61,6 +61,7 @@ Core concepts on what everything below this is built on.
 + General
   + [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
   + [PlainJS](https://plainjs.com/javascript/events/) - Helpful tips for writing plain javascript
+  + [Overwhelmed by Javascript Dependencies](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
   + New Features
     + ES6
     + ES7
