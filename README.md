@@ -79,6 +79,7 @@ Core concepts on what everything below this is built on.
     + General
       + [A Different Approach to Angular Nav Menus](https://ryankaskel.com/blog/2013/05/27/a-different-approach-to-angularjs-navigation-menus)
       + [Save form values on view chnage](http://stackoverflow.com/questions/12940974/maintain-model-of-scope-when-changing-between-views-in-angularjs)
+      + [Binding to Directive Controllers - Using isolate scope and controllerAs](http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html)
     + Questions
       [Difference between '@' and '=' in directives](http://stackoverflow.com/questions/14050195/what-is-the-difference-between-and-in-directive-scope)
     + Architecture
