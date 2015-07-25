@@ -95,6 +95,12 @@ Core concepts on what everything below this is built on.
 ### Server-Side
 #### Node.js
   + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
+#### Databases
+  + MongoDB
+    + [MongoDB Shell Quick Reference](http://docs.mongodb.org/manual/reference/mongo-shell/)
+      + **Start Shell** `mongo`
+      + **Use Database** `use [database name]`
+      + 
 
 ### Various (need to be sorted)
 + [JSBin](http://jsbin.com/) - Web app for mocking up examples with HTML/CSS/JS.
