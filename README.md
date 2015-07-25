@@ -94,6 +94,9 @@ Core concepts on what everything below this is built on.
   
 ### Server-Side
 #### Node.js
+  + Packages
+    + Mongoose - MongoDB thing (rest of description TBD)
+      + [Helpful article on `populate`](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
   + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
 #### Databases
   + MongoDB
