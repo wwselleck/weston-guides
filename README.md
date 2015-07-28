@@ -27,6 +27,8 @@ Core concepts on what everything below this is built on.
     + [Dive Into HTML5](http://diveintohtml5.info/index.html)
   + Local Storage
     + [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](http://diveintohtml5.info/storage.html)
+  + IndexedDB
+    + [Difference between Local Storage and IndexedDB](http://programmers.stackexchange.com/questions/219953/how-is-localstorage-different-from-indexeddb)
   + Web Sockets
     + [MDN - Web Sockets](https://developer.mozilla.org/en-US/docs/WebSockets)
 + [Web Components](http://webcomponents.org/)
