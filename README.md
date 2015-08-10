@@ -99,7 +99,8 @@ Core concepts on what everything below this is built on.
     + [Zeef Angular Page](https://angularjs.zeef.com/gianluca.arbezzano)
   + Aurelia
     + General
-      + [(my) Best Practices in Aurelia - Passing and Sharing State](http://patrickwalters.net/my-best-practices-in-aurelia/)
+      + [Patrick Walters Best Practices for Aurelia - Application Structure](http://patrickwalters.net/my-best-practices-for-aurelia-application-structure/)
+      + [Patrick Walters Best Practices in Aurelia - Passing and Sharing State](http://patrickwalters.net/my-best-practices-in-aurelia/)
   + Ember
   + Backbone
     + Beginner
