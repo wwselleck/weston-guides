@@ -97,7 +97,9 @@ Core concepts on what everything below this is built on.
     + [Angular 2.x](https://angular.io/)
     + [Giant List of Angular Resources](https://github.com/jmcunningham/AngularJS-Learning)
     + [Zeef Angular Page](https://angularjs.zeef.com/gianluca.arbezzano)
-
+  + Aurelia
+    + General
+      + [(my) Best Practices in Aurelia - Passing and Sharing State](http://patrickwalters.net/my-best-practices-in-aurelia/)
   + Ember
   + Backbone
     + Beginner
