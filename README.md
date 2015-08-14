@@ -102,6 +102,7 @@ Core concepts on what everything below this is built on.
       + [Article on IoC and Dependency Injection in Aurelia](https://gist.github.com/jdanyow/f54bd89d755af8f78720)
       + [Patrick Walters Best Practices for Aurelia - Application Structure](http://patrickwalters.net/my-best-practices-for-aurelia-application-structure/)
       + [Patrick Walters Best Practices in Aurelia - Passing and Sharing State](http://patrickwalters.net/my-best-practices-in-aurelia/)
+      + [Creating your first Aurelia app: From authentication to calling an API](https://auth0.com/blog/2015/08/05/creating-your-first-aurelia-app-from-authentication-to-calling-an-api/)
   + Ember
   + Backbone
     + Beginner
