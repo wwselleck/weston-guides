@@ -75,6 +75,7 @@ Core concepts on what everything below this is built on.
   + [Eloquent Javascript Chapter 10: Modules](http://eloquentjavascript.net/10_modules.html)
   + [Overwhelmed by Javascript Dependencies](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
 + Books
+  + [Programming Javascript Applications - Eric Elliott](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
   + [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 + Frameworks
   + AngularJS
