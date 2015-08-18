@@ -105,6 +105,8 @@ Core concepts on what everything below this is built on.
       + [Patrick Walters Best Practices for Aurelia - Application Structure](http://patrickwalters.net/my-best-practices-for-aurelia-application-structure/)
       + [Patrick Walters Best Practices in Aurelia - Passing and Sharing State](http://patrickwalters.net/my-best-practices-in-aurelia/)
       + [Creating your first Aurelia app: From authentication to calling an API](https://auth0.com/blog/2015/08/05/creating-your-first-aurelia-app-from-authentication-to-calling-an-api/)
+    + Questions
+      + [How to inject in a parent class in Aurelia?](http://stackoverflow.com/questions/30094497/how-to-inject-in-a-parent-class-in-aurelia)
   + Ember
   + Backbone
     + Beginner
@@ -116,6 +118,7 @@ Core concepts on what everything below this is built on.
     + Mongoose - MongoDB thing (rest of description TBD)
       + [Helpful article on `populate`](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
   + [Stack Overflow - Learning Express for Node.js](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
+
 #### Databases
   + MongoDB
     + [MongoDB Shell Quick Reference](http://docs.mongodb.org/manual/reference/mongo-shell/)
