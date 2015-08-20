@@ -35,6 +35,7 @@ Core concepts on what everything below this is built on.
 + [Web Components](http://webcomponents.org/)
 
 ### Workflow/Deployment
++ ★ [Vagrant](https://www.vagrantup.com/) - Portable development VMs
 + ★ [Bower](http://bower.io/) - Front-end dependency management
   + [How to find available versions of package](http://stackoverflow.com/questions/21242143/how-to-find-available-versions-for-a-bower-dependency)
 + ★ Gulp
