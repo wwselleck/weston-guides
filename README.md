@@ -9,6 +9,7 @@ A repo to keep track of resources I pick up while learning Full Stack Web Develo
 
 ### Reference
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
++ [Flow Chart for Web Development Topics](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
 
 ### Course Sites
 Sites with structured courses and/or guides for learning web dev.
