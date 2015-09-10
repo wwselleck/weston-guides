@@ -59,6 +59,8 @@ Core concepts on what everything below this is built on.
       + [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter) - Linting (required additional plugins for each linter (e.g. JSHint)
       + [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter) - Highlight matching brackets, quotations, etc.
       + [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+  + Vim
+    + [What are the benefits of learning vim?](http://stackoverflow.com/questions/597077/what-are-the-benefits-of-learning-vim)
   + [Atom by Github](https://atom.io/)
 + [Spectacle Window Manager for OSX](http://spectacleapp.com/)
 
