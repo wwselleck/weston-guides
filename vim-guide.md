@@ -2,10 +2,12 @@
 ### Quick Reference
 + `h j k l` Move cursor left, line down, line up, cursor right
 + `i` Enter insert mode
-
-
-
-
++ `^ $` Beginning, end of line
++ `i a` Insert before, after cursor
++ `I A` Insert at beginning, end of line
++ `rw` Replace character under cursor with `w`
++ `:sp [filename]` Create horizontal split
++ `:vsp [filename]` Create vertical split
 
 
 + `:e <file name>` Create a new file
@@ -25,7 +27,7 @@
 + Re-map a key (non-recursively)
   + `noremap <key to remap> <command to map to>`
     + e.g. `noremap ,d dd`
-    
 
 ### Q&A
 + [What's the difference between remap, noremap, nnoremap, etc.?](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
+

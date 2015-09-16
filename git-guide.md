@@ -21,6 +21,14 @@ Git is a distributed version control system. If you don't know what version cont
 + Add all changed files in working tree to index, ignoring new files
   + `git add -u`
 
+##### Branches
++ Delete local branch
+  + `git branch -d <branch name>` <sup>[source](http://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote)</sup>
+    + e.g. `git branch -d feature/add-navigation`
++ Delete remote branch
+  + `git push origin --delete <branch name>` <sup>[source](http://stackoverflow.com/questions/2003505/delete-a-git-branch-both-locally-and-remotely)</sup>
+    + e.g. `git push origin --delete feature/add-navigation`
++ Push local branch to remote
+  + `git push --set-upstream origin <branch name>`
+    + e.g. `git push --set-upstream origin feature/US14933-skeleton-cleanup`
 
-#### Commiting
-`git commit 
