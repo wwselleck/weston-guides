@@ -8,3 +8,26 @@
 + `rw` Replace character under cursor with `w`
 + `:sp [filename]` Create horizontal split
 + `:vsp [filename]` Create vertical split
+
+
++ `:e <file name>` Create a new file
++ `:set expandtab` Convert all tabs to spaces
++ `:set tabstop=4` Set tabs to be 2 spaces
+
+##### Config
++ Set a prefix key to be the leader key for mappings
+  + `let mapleader = "<character>"`<sup>[source](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)</sup>
+    + e.g. `let mapleader = ","`
+            `:nnoremap <leader>d dd`
+      + Remaps `,d` to `dd`
++ Ignore case while searching
+  + `set ignorecase`<sup>[source](http://vim.wikia.com/wiki/Searching)</sup>
++ Hide buffer when unloading instead of closing it
+  + `set hidden`<sup>[source](http://usevim.com/2012/10/19/vim101-set-hidden/)</sup>
++ Re-map a key (non-recursively)
+  + `noremap <key to remap> <command to map to>`
+    + e.g. `noremap ,d dd`
+
+### Q&A
++ [What's the difference between remap, noremap, nnoremap, etc.?](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
+
