@@ -28,6 +28,10 @@
   + `noremap <key to remap> <command to map to>`
     + e.g. `noremap ,d dd`
 
+
+##### Plugins/Themes
++ [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
+
 ### Q&A
 + [What's the difference between remap, noremap, nnoremap, etc.?](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
 
