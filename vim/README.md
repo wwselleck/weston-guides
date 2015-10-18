@@ -6,6 +6,8 @@
 [Why Atom can't replace Vim](https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 n)
 
 ### Plugins/Themes
++ Plugin Manager
+  + ★ [Vundle](https://github.com/VundleVim/Vundle.vim)
 + [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
 
 ### Q&A
