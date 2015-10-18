@@ -1,5 +1,4 @@
-# Weston's Vim Guide
-### Quick Reference
+# Weston's Vim Quick Reference
 + `h j k l` Move cursor left, line down, line up, cursor right
 + `i` Enter insert mode
 + `^ $` Beginning, end of line
@@ -32,11 +31,3 @@
 + Re-map a key (non-recursively)
   + `noremap <key to remap> <command to map to>`
     + e.g. `noremap ,d dd`
-
-
-##### Plugins/Themes
-+ [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
-
-### Q&A
-+ [What's the difference between remap, noremap, nnoremap, etc.?](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
-
