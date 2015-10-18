@@ -8,7 +8,8 @@
 ### Plugins/Themes
 #### Plugin Manager
 + ★ [vim-plug](https://github.com/junegunn/vim-plug#installation)
-+ [Vundle](https://github.com/VundleVim/Vundle.vim) - Essential Vim plugin manager
++ [Vundle](https://github.com/VundleVim/Vundle.vim)
+
 ##### Articles
 + [Why I switched from Vundle to Plug](https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/)
 + [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
