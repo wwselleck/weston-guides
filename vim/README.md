@@ -1,13 +1,13 @@
 # Weston's Vim Guide
 ### Quick Reference
-[Weston's Vim Quick Reference](http://github.com/wwselleck/weston-guides/vim/quick-reference.md)
+[Weston's Vim Quick Reference](https://github.com/wwselleck/weston-guides/blob/master/vim/quick-reference.md)
 
 ### Articles
 [Why Atom can't replace Vim](https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 n)
 
 ### Plugins/Themes
 + Plugin Manager
-  + ★ [Vundle](https://github.com/VundleVim/Vundle.vim)
+  + ★ [Vundle](https://github.com/VundleVim/Vundle.vim) - Essential Vim plugin manager
 + [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
 
 ### Q&A
