@@ -13,12 +13,12 @@
 + `:set expandtab` Convert all tabs to spaces
 + `:set tabstop=4` Set tabs to be 2 spaces
 
-##### Searching
+#### Searching
 + `d<line number>G`<sup>[[0]](http://stackoverflow.com/questions/6384561/delete-to-line-number-in-vi)</sup> Delete lines [current line, line number]
   + e.g. `d53G`
     + Delete all lines from current line to line 53
 
-##### Config
+#### Config
 + Set a prefix key to be the leader key for mappings
   + `let mapleader = "<character>"`<sup>[source](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)</sup>
     + e.g. `let mapleader = ","`
@@ -31,3 +31,7 @@
 + Re-map a key (non-recursively)
   + `noremap <key to remap> <command to map to>`
     + e.g. `noremap ,d dd`
+
+
+#### Help
+`:h startup` - Vim startup

@@ -5,6 +5,10 @@
 ### Articles
 [Why Atom can't replace Vim](https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1 n)
 
+### Configuration
++ [Vim Wikia vimrc guide](http://vim.wikia.com/wiki/Open_vimrc_file)
++ [How to debug unexpected option settings (.vimrc, etc)](http://vim.wikia.com/wiki/Debug_unexpected_option_settings)
+
 ### Plugins/Themes
 #### Plugin Manager
 + ★ [vim-plug](https://github.com/junegunn/vim-plug#installation)
