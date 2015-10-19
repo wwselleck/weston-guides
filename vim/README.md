@@ -8,6 +8,7 @@
 ### Configuration
 + [Vim Wikia vimrc guide](http://vim.wikia.com/wiki/Open_vimrc_file)
 + [How to debug unexpected option settings (.vimrc, etc)](http://vim.wikia.com/wiki/Debug_unexpected_option_settings)
++ [A Good Vimrc](http://dougblack.io/words/a-good-vimrc.html)
 
 ### Plugins/Themes
 #### Plugin Manager
