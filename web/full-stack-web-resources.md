@@ -126,6 +126,10 @@ Core concepts on what everything below this is built on.
 
 #### Databases
   + MongoDB
+    + Questions
+      + [Where does MongoDB store its documents?](http://stackoverflow.com/questions/6437291/where-does-mongodb-store-its-documents)
+    + Troubleshooting
+      + [data/db not found](http://stackoverflow.com/questions/7948789/mongodb-mongod-complains-that-there-is-no-data-db-folder)
     + [MongoDB Shell Quick Reference](http://docs.mongodb.org/manual/reference/mongo-shell/)
       + **Start Shell** `mongo`
       + **Use Database** `use [database name]`
