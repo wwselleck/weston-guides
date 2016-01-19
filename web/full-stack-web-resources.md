@@ -85,6 +85,10 @@ Core concepts on what everything below this is built on.
 + Books
   + [Programming Javascript Applications - Eric Elliott](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
   + [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
++ DOM Manipulation
+  + [Creating and removing nodes](http://www.w3schools.com/js/js_htmldom_nodes.asp)
+  + Styling
+    + (Adding/Removing classes with pure Javascript)[http://jaketrent.com/post/addremove-classes-raw-javascript/]
 + Frameworks
   + [Angular 1.x](https://angularjs.org/)
     + General
@@ -116,6 +120,9 @@ Core concepts on what everything below this is built on.
   + Backbone
     + Beginner
       + [A complete guide for learning Backbone](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
+  + Questions
+    + [How to run a script when the document is ready?](https://plainjs.com/javascript/events/running-code-when-the-document-is-ready-15/)
+    + [How to deal with Cross Origin](https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/)
   
 ### Server-Side
 #### Node.js
