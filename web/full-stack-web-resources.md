@@ -90,6 +90,11 @@ Core concepts on what everything below this is built on.
   + Fetch
     + Reference
       + [Fetch Polyfill Repo](https://github.com/github/fetch)
+
++ DOM Manipulation
+  + [Creating and removing nodes](http://www.w3schools.com/js/js_htmldom_nodes.asp)
+  + Styling
+    + (Adding/Removing classes with pure Javascript)[http://jaketrent.com/post/addremove-classes-raw-javascript/]
 + Frameworks
   + [Angular 1.x](https://angularjs.org/)
     + General
@@ -125,6 +130,9 @@ Core concepts on what everything below this is built on.
   + Backbone
     + Beginner
       + [A complete guide for learning Backbone](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
+  + Questions
+    + [How to run a script when the document is ready?](https://plainjs.com/javascript/events/running-code-when-the-document-is-ready-15/)
+    + [How to deal with Cross Origin](https://jvaneyck.wordpress.com/2014/01/07/cross-domain-requests-in-javascript/)
   
 ### Server-Side
 #### Node.js
@@ -135,6 +143,10 @@ Core concepts on what everything below this is built on.
 
 #### Databases
   + MongoDB
+    + Questions
+      + [Where does MongoDB store its documents?](http://stackoverflow.com/questions/6437291/where-does-mongodb-store-its-documents)
+    + Troubleshooting
+      + [data/db not found](http://stackoverflow.com/questions/7948789/mongodb-mongod-complains-that-there-is-no-data-db-folder)
     + [MongoDB Shell Quick Reference](http://docs.mongodb.org/manual/reference/mongo-shell/)
       + **Start Shell** `mongo`
       + **Use Database** `use [database name]`

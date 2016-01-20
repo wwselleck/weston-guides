@@ -2,6 +2,9 @@
 ### Guides
 + [Learn Python in Y Minutes](http://learnxinyminutes.com/docs/python3/)
 
+### Articles
++ [Understanding the Python 'with' statement](http://effbot.org/zone/python-with-statement.htm)
+
 ### Books
 + [Dive into Python 3](http://www.diveintopython3.net/index.html)
 
