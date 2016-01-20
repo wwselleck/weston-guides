@@ -7,7 +7,7 @@
 + `rw` Replace character under cursor with `w`
 + `:sp [filename]` Create horizontal split
 + `:vsp [filename]` Create vertical split
-
++ `Ctrl-w =` Resize all windows to equal dimensions
 
 + `:e <file name>` Create a new file
 + `:set expandtab` Convert all tabs to spaces

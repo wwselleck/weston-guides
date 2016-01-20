@@ -82,9 +82,14 @@ Core concepts on what everything below this is built on.
 + Various *need to be sorted*
   + [Eloquent Javascript Chapter 10: Modules](http://eloquentjavascript.net/10_modules.html)
   + [Overwhelmed by Javascript Dependencies](http://blog.startifact.com/posts/overwhelmed-by-javascript-dependencies.html)
+  + [Writing SPAs without a framework](http://tutorialzine.com/2015/02/single-page-app-without-a-framework/)
 + Books
   + [Programming Javascript Applications - Eric Elliott](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
   + [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
++ APIs
+  + Fetch
+    + Reference
+      + [Fetch Polyfill Repo](https://github.com/github/fetch)
 + Frameworks
   + [Angular 1.x](https://angularjs.org/)
     + General
@@ -112,6 +117,10 @@ Core concepts on what everything below this is built on.
       + [Creating your first Aurelia app: From authentication to calling an API](https://auth0.com/blog/2015/08/05/creating-your-first-aurelia-app-from-authentication-to-calling-an-api/)
     + Questions
       + [How to inject in a parent class in Aurelia?](http://stackoverflow.com/questions/30094497/how-to-inject-in-a-parent-class-in-aurelia)
+    + Modules 
+      + aurelia-fetch-client
+        + [Documentation](https://gist.github.com/bryanrsmith/14caed2015b9c54e70c3)
+        + [All About The Aurelia Fetch Client](http://ilikekillnerds.com/2015/10/all-about-the-aurelia-fetch-client/)
   + Ember
   + Backbone
     + Beginner
