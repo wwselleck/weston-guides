@@ -22,6 +22,15 @@ Git is a distributed version control system. If you don't know what version cont
   + `git add -u`
 
 ##### Branches
++ Show branches and their commits
+  + `git show-branch`<sup>[[0]](https://git-scm.com/docs/git-show-branch)</sup>
++ Show all local and remote branches
+  + `git branch -a` <sup>[[0]](http://gitready.com/intermediate/2009/02/13/list-remote-branches.html)</sup>
++ Rename a local branch
+  + `git branch -m <oldname> <newname>`<sup>[[0]](http://stackoverflow.com/questions/6591213/how-to-rename-the-local-branch)
+    + e.g. `git branch -m feature/old-name feature/new-name`
+    + If you are already on the branch you want to rename, this can be shortened to
+      + `git branch -m <newname>`
 + Delete local branch
   + `git branch -d <branch name>` <sup>[source](http://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote)</sup>
     + e.g. `git branch -d feature/add-navigation`
