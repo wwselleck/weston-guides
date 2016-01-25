@@ -20,6 +20,10 @@
 	+ [Why I switched from Vundle to Plug](https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/)
 + [How to install a color theme](http://www.mkyong.com/linux/how-to-install-a-vim-color-scheme/)
 
+#### Plugins
++ ★ [vim-airline](https://github.com/vim-airline/vim-airline)
+	+ NOTE: For the icons to display correctly, [powerline fonts](https://github.com/powerline/fonts) must be installed. Once these are installed, you must then change the font in your terminal (iTerm2, whatever) to be one of these powerline fonts. 
+
 ### Q&A
 + [What's the difference between remap, noremap, nnoremap, etc.?](http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping)
 
