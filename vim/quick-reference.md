@@ -1,4 +1,7 @@
 # Weston's Vim Quick Reference
+It's very annoying to have a billion \<sup>s littering my markdown file, so if something doesn't have a source it probably came from one of these places...
+
+[fprintf Vim Quick Reference](https://www.fprintf.net/vimCheatSheet.html)
 + `h j k l` Move cursor left, line down, line up, cursor right
 + `i` Enter insert mode
 + `^ $` Beginning, end of line
@@ -13,10 +16,22 @@
 + `:set expandtab` Convert all tabs to spaces
 + `:set tabstop=4` Set tabs to be 2 spaces
 
+#### Cursor Motion
+`gg G` Jump to the beginning of file, end of file
++ `w b` Go forwards a word, backwards a word
+#### Inserting Text
++ `o O` Begin a new line below the cursor, above the cursor
+
 #### Searching
-+ `d<line number>G`<sup>[[0]](http://stackoverflow.com/questions/6384561/delete-to-line-number-in-vi)</sup> Delete lines [current line, line number]
++ `d[line number]G`<sup>[[0]](http://stackoverflow.com/questions/6384561/delete-to-line-number-in-vi)</sup> Delete lines [current line, line number]
   + e.g. `d53G`
     + Delete all lines from current line to line 53
+
+#### Buffers
++ `<C-w> [hjkl]` Navigate splits
++ `:bn :bp` Next buffer, previous buffer
++ `:bd` Delete current buffer
++ `:bd [buffer number]` Delete buffer <buffer number>
 
 #### Config
 + Set a prefix key to be the leader key for mappings
