@@ -2,6 +2,9 @@
 ### Quick Reference
 [Weston's Vim Quick Reference](https://github.com/wwselleck/weston-guides/blob/master/vim/quick-reference.md)
 
+### General
++ [Neovim]() - Vim fork 
+  + [Why Neovim is better than Vim](http://geoff.greer.fm/2015/01/15/why-neovim-is-better-than-vim/)
 ### Tutorials
 [[Derek Wyatt] Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/)
 ### Articles

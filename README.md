@@ -9,3 +9,10 @@ So. This is where I keep basically everything I want to remember when I go learn
 I think that's all. Let me know if I suggest something you think sucks. Not sarcasm, for all I know I'm stupid for also not thinking it sucks.
 
 :simple-smile:.
+
+## Table of Contents
++ [Web Development]
+  + Frameworks
+    + [Angular 1.x](https://github.com/wwselleck/weston-guides/blob/master/web/frontend/framework/angular1-guide.md)
+    + [Angular 2.x](https://github.com/wwselleck/weston-guides/blob/master/web/frontend/frameworks/angular2-guide.md)
+    + [Aurelia](https://github.com/wwselleck/weston-guides/blob/master/web/frontend/frameworks/aurelia-guide.md)
