@@ -19,7 +19,19 @@ Anything to do with the software used to create your software.
       + [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter) - Linting (required additional plugins for each linter (e.g. JSHint)
       + [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter) - Highlight matching brackets, quotations, etc.
       + [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
-  + [Vim]
+  + ★ [Vim]
     + [What are the benefits of learning vim?](http://stackoverflow.com/questions/597077/what-are-the-benefits-of-learning-vim)
   + [Atom by Github](https://atom.io/)
 + [Spectacle Window Manager for OSX](http://spectacleapp.com/)dev-environment.md
+
+### Communication
+#### IRC
++ Clients
+  + Terminal
+    + [WeeChat](https://weechat.org/)
+      + Use this one
+    + [Irssi]() - Terminal IRC Client
+      + Don't use this one
+      + https://www.linode.com/docs/applications/messaging/using-irssi-for-internet-relay-chat
+      + https://quadpoint.org/articles/irssi/#switching-windows
+
