@@ -24,6 +24,14 @@ Anything to do with the software used to create your software.
   + [Atom by Github](https://atom.io/)
 + [Spectacle Window Manager for OSX](http://spectacleapp.com/)dev-environment.md
 
+### Productivity
+#### Applications
++ [Alfred (macOS only)](https://www.alfredapp.com/) - Super powered spotlight
+  + Workflows
+    + [Spotifious](https://github.com/citelao/Spotify-for-Alfred)
+      + Control Spotify
+    + [Dash](https://kapeli.com/dash)
+      + Documentation browser, easily access through Alfred
 ### Communication
 #### IRC
 + Clients
