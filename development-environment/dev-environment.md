@@ -21,8 +21,8 @@ Anything to do with the software used to create your software.
       + [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
   + ★ [Vim]
     + [What are the benefits of learning vim?](http://stackoverflow.com/questions/597077/what-are-the-benefits-of-learning-vim)
-  + [Atom by Github](https://atom.io/)
-+ [Spectacle Window Manager for OSX](http://spectacleapp.com/)dev-environment.md
+  + [Atom](https://atom.io/)
++ [Spectacle Window Manager for macOS](http://spectacleapp.com/)dev-environment.md
 
 ### Productivity
 #### Applications
